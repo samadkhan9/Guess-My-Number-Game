@@ -1,5 +1,5 @@
 # Guess-My-Number-Game
-# Guess Game 🎮 1-20 | Feedback | Difficulty | Clone &amp; Play! 🚀 🔗 [Play](#) # Tech - HTML - CSS - JS  # How to - Input. Click "Check." Beat high score. # Features - Reset.  # Contribute Welcome! Enjoy! 🌟
+# Guess Game 🎮 1-20 | Feedback | Difficulty | Clone &amp; Play! 🚀 🔗 [[Play](https://samadkhan9.github.io/Guess-My-Number-Game/)](#) # Tech - HTML - CSS - JS  # How to - Input. Click "Check." Beat high score. # Features - Reset.  # Contribute Welcome! Enjoy! 🌟
 Number Guessing Game
 Welcome to the Number Guessing Game repository! This interactive JavaScript game challenges players to guess a secret number between 1 and 20. The game features dynamic feedback, an adjustable difficulty level, and a high-score tracker to keep players engaged.
 
